@@ -1,7 +1,8 @@
 const TimerControls = () => {
   return (
-    <div className="container-timer-controls">
-      <h1>Timer Controls</h1>
+    <div className="timer-controls">
+      <button>Iniciar</button>
+      <button>Zerar</button>
     </div>
   );
 };

@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
       <Time />
-      <h1>Cronometro</h1>
     </div>
   )
 }

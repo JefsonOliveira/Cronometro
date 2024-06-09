@@ -1,7 +1,6 @@
 const TimerDisplay = () => {
   return (
-    <div className="container-time-display">
-      <h1>Timer Display</h1>
+    <div className="timer-display">00:00
     </div>
   );
 };
