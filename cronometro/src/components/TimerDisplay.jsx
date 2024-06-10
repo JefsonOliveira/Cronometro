@@ -1,8 +1,5 @@
-const TimerDisplay = () => {
-  return (
-    <div className="timer-display">00:00
-    </div>
-  );
+const TimerDisplay = ({ time }) => {
+  return <div className="timer-display">{time}</div>;
 };
 
 export default TimerDisplay;
